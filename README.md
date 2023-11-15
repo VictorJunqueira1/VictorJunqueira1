@@ -25,6 +25,8 @@ Entre em contato comigo através deste e-mail: victorjunqueira.prog@gmail.com
 
 ![VictorJunqueira1 GitHub stats](https://github-readme-stats.vercel.app/api?username=victorjunqueira1&show_icons=true&theme=dracula)
 
+<br>
+
 # Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorjunqueira1&hide_progress=true&theme=dracula)
