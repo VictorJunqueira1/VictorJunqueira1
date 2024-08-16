@@ -1,36 +1,55 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador" min-width="400px" max-width="400px" width="400px" align="right">
+<h2 align="left">Olá, meu nome é Victor! 👋</h2>
 
-### Olá, meu nome é Victor! 👋
+###
 
-Comecei minha jornada em tecnologia em 2022, quando iniciei meu ensino médio técnico em Análise e Desenvolvimento de Sistemas na ETEC Pedro Ferreira Alves. Paralelamente, ampliei meus conhecimentos por meio de cursos na B7WEB, Rocketseat e Curso em Vídeo.
+<p align="left">👨‍💻 Desenvolvedor Front-End, com 17 anos e em constante evolução.<br><br>🎓 Minha jornada começou em 2022, quando iniciei o ensino médio técnico em Desenvolvimento de Sistemas na ETEC Pedro Ferreira Alves. Paralelamente, me dedico a cursos complementares na B7WEB e Curso em Vídeo, sempre buscando ampliar meus horizontes na programação.<br><br>💡 Fascinado pelo front-end, foco em criar códigos otimizados, acessíveis e bem estruturados, utilizando JavaScript e TypeScript como principais linguagens. Minhas ferramentas favoritas incluem frameworks e bibliotecas como React.js, Next.js e TailwindCSS.<br><br>📈 Atualmente, estou expandindo meus conhecimentos em banco de dados e desenvolvimento mobile, buscando sempre me tornar um profissional completo e atualizado com as demandas do mercado.<br><br>🌟 Sinta-se à vontade para explorar meus repositórios e entrar em contato!</p>
 
-Fascinado por front-end, dediquei-me a criar códigos otimizados e estruturados, aprofundando minhas habilidades em JavaScript e TypeScript, além de frameworks e bibliotecas como React.js, Next.js e TailwindCSS. Além disso, busco ampliar meus conhecimentos em banco de dados e desenvolvimento mobile.
+###
 
-📧 **Contato:** [victorjunqueira.prog@gmail.com](mailto:victorjunqueira.prog@gmail.com)
+<br clear="both">
 
-## Tecnologias 
+<div align="left">
+  <a href="in/victor-junqueira-789004281" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="victorjunqueira.prog@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+###
 
-## Stats 🔥
+<h2 align="left">Skills</h2>
 
-<table>
-  <tr>
-    <td>
-      <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorjunqueira1&hide_progress=true&theme=radical" alt="Top Languages" width='350' />
-    </td>
-    <td>
-        <p>
-            <img align='center' align='right' width='400' src="https://github-readme-stats.vercel.app/api?username=victorjunqueira1&show_icons=true&title_color=ff00dd&text_color=ffffff&icon_color=f2ff00&theme=radical&cache_seconds=2000" alt="ilustração do status do github">
-        </p>
-    </td>
-  </tr>
-</table>
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorJunqueira1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2&custom_title=Linguagens%20Mais%20Utilizadas" height="155" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=VictorJunqueira1&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
