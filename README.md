@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 Sou um desenvolvedor <strong>Full Stack</strong> em constante evolução, especializado em <strong>Front-End</strong> e atualmente expandindo minhas habilidades para o <strong>Back-End</strong>. Com 18 anos, tenho uma paixão pela tecnologia que vai além do desenvolvimento web.<br><br>🔍 Estou continuamente em busca de aprimorar minhas habilidades, focando nas melhores práticas de <strong>arquitetura de software</strong> e nos <strong>princípios de programação</strong>. No momento, meu objetivo principal é aprofundar meus conhecimentos no desenvolvimento de <strong>aplicações web</strong> e <strong>desktop</strong>.<br><br>🚀 Estou sempre aberto a novas oportunidades que me permitam aplicar meu conhecimento e aprimorar minhas habilidades. Meu objetivo é me tornar um especialista em <strong>desenvolvimento de software</strong>, com ênfase em <strong>qualidade de código</strong> e <strong>arquitetura robusta.</strong><br><br>🌟 Sinta-se à vontade para explorar meus repositórios e entrar em contato!</p>
+<p align="left">👨‍💻 Sou um desenvolvedor <strong>Full Stack</strong> em constante evolução, especializado em <strong>Front-End</strong> e atualmente expandindo minhas habilidades para o <strong>Back-End</strong>. Com 18 anos,tenho uma paixão pela tecnologia que vai além do desenvolvimento web.<br><br>🔍 Estou continuamente em busca de aprimorar minhas habilidades, focando nas melhores práticas de <strong>arquitetura de software</strong> e nos <strong>princípios de programação</strong>. No momento, meu objetivo principal é aprofundar meus conhecimentos no desenvolvimento de <strong>aplicações web</strong> e <strong>desktop</strong>.<br><br>🚀 Estou sempre aberto a novas oportunidades que me permitam aplicar meu conhecimento e aprimorar minhas habilidades. Meu objetivo é me tornar um especialista em <strong>desenvolvimento de software</strong>, com ênfase em <strong>qualidade de código</strong> e <strong>arquitetura robusta.</strong><br><br>🌟 Sinta-se à vontade para explorar meus repositórios e entrar em contato!</p>
 
 ###
 
@@ -23,29 +23,29 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="45" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="45" alt="nestjs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" alt="dotnetcore logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" alt="nestjs logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnetcore logo"  />
 </div>
 
 ###
