@@ -1,8 +1,8 @@
-<h2 align="left">Olá, meu nome é Victor! 👋</h2>
+<h1 align="left">Olá, meu nome é Victor! 👋</h1>
 
 ###
 
-<p align="left">👨‍💻 Desenvolvedor Front-End apaixonado por tecnologia, com 18 anos e em constante evolução.<br><br>🎓 Minha jornada começou em 2022, quando iniciei o ensino médio técnico em Desenvolvimento de Sistemas na ETEC Pedro Ferreira Alves. Paralelamente, me dedico a cursos complementares na B7WEB e Curso em Vídeo, sempre buscando ampliar meus horizontes na programação.<br><br>💡 Fascinado pelo front-end, foco em criar códigos otimizados, acessíveis e bem estruturados, utilizando JavaScript e TypeScript como principais linguagens. Minhas ferramentas favoritas incluem frameworks e bibliotecas como React.js, Next.js e TailwindCSS.<br><br>📈 Atualmente, estou expandindo meus conhecimentos em banco de dados e desenvolvimento mobile, buscando sempre me tornar um profissional completo e atualizado com as demandas do mercado.<br><br>🌟 Sinta-se à vontade para explorar meus repositórios e entrar em contato!</p>
+<p align="left">👨‍💻 Sou um desenvolvedor <strong>Full Stack</strong> em constante evolução, especializado em <strong>Front-End</strong> e atualmente expandindo minhas habilidades para o <strong>Back-End</strong>. Com 18 anos, tenho uma paixão pela tecnologia que vai além do desenvolvimento web.<br><br>🔍 Estou continuamente em busca de aprimorar minhas habilidades, focando nas melhores práticas de <strong>arquitetura de software</strong> e nos <strong>princípios de programação</strong>. No momento, meu objetivo principal é aprofundar meus conhecimentos no desenvolvimento de <strong>aplicações web</strong> e <strong>desktop</strong>.<br><br>🚀 Estou sempre aberto a novas oportunidades que me permitam aplicar meu conhecimento e aprimorar minhas habilidades. Meu objetivo é me tornar um especialista em <strong>desenvolvimento de software</strong>, com ênfase em <strong>qualidade de código</strong> e <strong>arquitetura robusta.</strong><br><br>🌟 Sinta-se à vontade para explorar meus repositórios e entrar em contato!</p>
 
 ###
 
@@ -16,30 +16,36 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">Skills 🤹‍♀️</h2>
 
 ###
 
+<br clear="both">
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="javascript logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="45" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="45" alt="nestjs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" alt="dotnetcore logo"  />
 </div>
 
 ###
