@@ -58,3 +58,5 @@
 </div>
 
 ###
+
+<img src="https://www.codewars.com/users/VictorJunqueira1/badges/large" height="45" alt="codewars" />
